@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundimage"
+    tools:context=".MainActivity" >
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/cbStrokes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Strokes" />
+
+        <RadioButton
+            android:id="@+id/cbTranslation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Translation" />
+
+        <RadioButton
+            android:id="@+id/cbGrade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grade" />
+
+        <Spinner
+            android:id="@+id/spEscolha"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp" />
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/etPesquisa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rg"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:text=" " />
+
+    <GridView
+        
+        android:id="@+id/gvKanji"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/etPesquisa"
+        android:numColumns="3" >
+
+    </GridView>
+
+    <Button
+        android:id="@+id/btPesquisar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/etPesquisa"
+        android:text="Pesquisa" />
+
+</RelativeLayout>

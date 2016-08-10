@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string-array name="escolhas_array">
+        <item>&#61;</item>
+        <item>&#62;</item>
+        <item>&#60;</item>
+        <item>&#60;&#61;</item>
+        <item>&#62;&#61;</item>
+    </string-array>
+    
+    <string-array name="idiomas_array">
+        <item>Português</item>
+        <item>Español</item>
+        <item>English</item>
+    </string-array>
+    
+        <string-array name="tamanho_array">
+            <item >100</item>
+            <item >200</item>
+            <item >300</item>
+            <item >400</item>
+            <item >500</item>
+            <item >600</item>
+            <item >700</item>
+            <item >800</item>
+            <item >999</item>
+    </string-array>
+    
+</resources>

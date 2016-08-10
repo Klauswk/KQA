@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string-array name="pt">
+        <item>Lista de Kanjis</item>
+        <item>Tabela de Hiragana/Katakana</item>
+        <item>Desenvolvido por: Klaus Klein</item>
+        <item>Não há kanjis favoritados!</item>
+        <item>Idioma:</item>
+        <item>Tamanho da Pesquisa:</item>,
+        <item>Salvar</item>
+        <item>Opcões do App</item>
+        <item>Sobre: </item>
+        <item>Pertence a classe: </item>
+        <item>Pertence ao grau: </item>
+        <item>O numero de linhas é: </item>
+        <item>Seu radical é: </item>
+        <item>Tradução do radical: </item>
+        <item>Leitura do Kun: </item>
+        <item>Tradução do Kun: </item>
+        <item>Excluir</item>
+        <item>Favoritar</item>
+        <item>Linhas</item>
+        <item>Tradução</item>
+        <item>Grau</item>
+        <item>Procurar</item>
+        
+    </string-array>
+    
+    <string-array name="en">
+        <item>Kanjis List</item>
+        <item>Tab of Hiragana/Katakana</item>
+        <item>Developed by: Klaus Klein</item>
+        <item>There is no favorites kanjis!</item>
+        <item>Language:</item>
+        <item>Size of Search:</item>
+        <item>Save</item>
+        <item>Options of App</item>
+        <item>About: </item>
+        <item>Belong to the class: </item>
+        <item>Belong to the grade: </item>
+        <item>Stroke number is: </item>
+        <item>Radical is: </item>
+        <item>Radical Translate: </item>
+        <item>Kun Reading: </item>
+        <item>Kun Translate: </item>
+        <item>Delete</item>
+        <item>Favourite</item>
+        <item>Strokes</item>
+        <item>Translate</item>
+        <item>Grade</item>
+         <item>Search</item>
+        
+    </string-array>
+    
+    <string-array name="es">
+        <item>Lista de Kanjis</item> <!-- 0 -->
+        <item>Tabla de Hiragana/Katakana</item> <!-- 1 -->
+        <item>Desarrollado por: Klaus Klein</item> <!-- 2 -->
+        <item>No hay kanjis favoritados!</item> <!-- 3 -->
+        <item>Idioma:</item> <!-- 4 -->
+        <item>Tamaño de el Búsqueda:</item> <!-- 5 -->
+        <item>Guardar</item> <!-- 6 --> 
+        <item>Opciones de el App</item> <!-- 7 --> 
+        <item>Sobre: </item> <!-- 8 -->
+        <item>Pertenecer a la clase: </item> <!-- 9 -->
+        <item>Pertenecer a la grade: </item> <!-- 10 -->
+        <item>El número de líneas es: </item> <!-- 11 -->
+        <item>El radical es: </item> <!-- 12 -->
+        <item>Traducción de radical: </item> <!-- 13 -->
+        <item>Lectura de Kun: </item> <!-- 14 -->
+        <item>Traducción de Kun: </item> <!-- 15 -->
+        <item>Borrar</item> <!-- 16 -->
+        <item>Favoritar</item> <!-- 17 -->
+        <item>líneas</item> <!-- 18 -->
+        <item>Traducción</item> <!-- 19 -->
+        <item>Grau</item> <!-- 20 -->
+        <item>Búsqueda</item> <!-- 21 -->
+        
+    </string-array>
+</resources>
